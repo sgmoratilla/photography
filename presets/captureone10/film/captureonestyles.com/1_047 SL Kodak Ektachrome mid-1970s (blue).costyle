@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<SL Engine="1000">
+	<E K="ColorBalance" V="0.945999979972839;0.97299998998642;1" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1;1;1" />
+	<E K="GradationCurve" V="0,0;0.168999999761581,0.129999995231628;0.331000000238419,0.328000009059906;0.722000002861023,0.794000029563904;1,1" />
+	<E K="GradationCurveBlue" V="0,0;0.0689999982714653,0.0970000028610229;0.177000001072884,0.204999998211861;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="Name" V="1_047 SL Kodak Ektachrome mid-1970s (blue)" />
+	<E K="UUID" V="D5F57F38-39B6-462F-9A17-DE17F95E2EA6" />
+</SL>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<SL Engine="1000">
+	<E K="BwBlue" V="56" />
+	<E K="BwCyan" V="22" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="25" />
+	<E K="BwMagenta" V="32" />
+	<E K="BwRed" V="37" />
+	<E K="BwYellow" V="10" />
+	<E K="GradationCurve" V="0,0;0.24099999666214,0.291999995708466;0.633000016212463,0.772000014781952;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;1,1" />
+	<E K="Name" V="4_024 Ilford XP 2 Super 400" />
+	<E K="UUID" V="467458E1-4807-4C38-A3B9-8D6F14DEB4C5" />
+</SL>
